@@ -1,11 +1,16 @@
 _repo: The-History-of-Whittington_62142
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62142-h/images/cover.jpg
 creator:
   author:
     agent_name: Davies, William, Head-master of Carnarvon School
     gutenberg_agent_id: '51756'
     url: http://www.gutenberg.org/2009/agents/51756
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62142#The-History-of-Whittington
 gutenberg_issued: '2020-05-16'
 gutenberg_type: Text
 identifiers:
